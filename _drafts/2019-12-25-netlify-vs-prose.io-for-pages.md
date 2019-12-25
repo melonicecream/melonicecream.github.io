@@ -10,7 +10,7 @@ github pages 를 이용하여 블로그를 구동하더라도 별도의 에디�
 | 기능      | netlify                   | prose.io |
 | --------- | ------------------------- | -------- |
 | framework | hugo, jekyll 등           | jekyll   |
-| backend   | github, gitlab, bitbucket |          |
+| backend   | github, gitlab, bitbucket | github   |
 
 
 
