@@ -23,3 +23,7 @@ logback-jackson
 0.1.5
 ```
 그리고 `logback.xml`에 jsonLayout을 정의한다.
+
+
+### MDC ( Thread Local 을 대체하는 라이브러리 )
+기능 추가
