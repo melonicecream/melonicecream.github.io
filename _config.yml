@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 prose:
   media: "assets/images"
-  siteurl: "melonicecream.github.io"
+  siteurl: "https://melonicecream.github.io"
   
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
